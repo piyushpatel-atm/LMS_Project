@@ -1,0 +1,29 @@
+:host{
+    display: block;
+    height: 50%;
+    width: 50%;
+    margin: 3rem auto 0;
+}
+mat-card{
+    background:url("https://static.vecteezy.com/system/resources/thumbnails/002/011/847/small/paper-cut-luxury-gold-background-with-metal-texture-3d-abstract-for-gift-card-poster-on-wall-poster-template-landing-page-ui-ux-cover-book-banner-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+mat-card-title h1{
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: green;
+}
+table{
+    width: 100%;
+}
+.mat-mdc-row :hover{
+    background-color: lightskyblue
+}
+.mat-mdc-column-name{
+    border-right: 1px solid green;
+}
+.mat-cell{
+    padding: 1rem;
+    font-size: 1.3rem;
+}

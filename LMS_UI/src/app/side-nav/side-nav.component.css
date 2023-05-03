@@ -1,0 +1,8 @@
+mat-list-item:hover{
+        background-color: rgba(0,0,0, 0.5);
+        cursor: pointer;
+    
+} 
+.active{
+    background-color: rgb(95, 219, 244)
+}
